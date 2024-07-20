@@ -33,11 +33,3 @@ This project is a Laravel-based application specifically designed to assist coll
 Selain itu, saya juga menyediakan layanan instalasi proyek ini untuk membantu Anda menerapkannya dalam lingkungan produksi Anda. Layanan instalasi mencakup konfigurasi, penyesuaian, dan implementasi proyek sesuai dengan kebutuhan Anda.
 
 Jika Anda memerlukan bantuan dalam instalasi proyek ini atau memiliki pertanyaan lebih lanjut, jangan ragu untuk menghubungi saya melalui email di [yogaardikaaa123@gmail.com](mailto:yogaardikaaa123@gmail.com).
-
-## Peringatan
-
-Proyek ini dilindungi oleh hak cipta dan lisensi [MIT]. Dilarang keras untuk menjual ulang atau mendistribusikan kembali kode sumber ini tanpa izin tertulis dari pemilik proyek.
-
-Segala bentuk pelanggaran terhadap hak cipta dan lisensi akan ditindaklanjuti sesuai dengan hukum yang berlaku.
-
-Terima kasih atas pengertian dan kerjasamanya.
