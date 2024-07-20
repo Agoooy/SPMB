@@ -28,46 +28,6 @@ This project is a Laravel-based application specifically designed to assist coll
 
 -   [Sistem Pendaftaran Mahasiswa Baru](https://spmb.peix.my.id)
 
-## Instalasi
-
-Berikut langkah-langkah untuk menginstal dan menjalankan proyek:
-
-1. Clone repository:
-
-    ```bash
-    git clone https://github.com/Agoooy
-    ```
-
-2. Instal dependensi menggunakan Composer:
-
-    ```bash
-    composer install
-    ```
-
-3. Salin file `.env.example` menjadi `.env` dan sesuaikan konfigurasi database:
-
-    ```bash
-    cp .env.example .env
-    ```
-
-4. Buat kunci aplikasi:
-
-    ```bash
-    php artisan key:generate
-    ```
-
-5. Jalankan migrasi untuk membuat tabel-tabel database:
-
-    ```bash
-    php artisan migrate
-    ```
-
-6. Jalankan server pengembangan:
-
-    ```bash
-    php artisan serve
-    ```
-
 ## Support
 
 Selain itu, saya juga menyediakan layanan instalasi proyek ini untuk membantu Anda menerapkannya dalam lingkungan produksi Anda. Layanan instalasi mencakup konfigurasi, penyesuaian, dan implementasi proyek sesuai dengan kebutuhan Anda.
