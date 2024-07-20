@@ -1,4 +1,4 @@
-# Sistem pendaftaran mahasiswa baru
+# New Student Registration System
 
 This project is a Laravel-based application specifically designed to assist colleges and schools in the student admission process. Featuring an intuitive interface and comprehensive features, the application allows prospective students to easily and efficiently apply online.
 
