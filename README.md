@@ -1,6 +1,6 @@
 # Sistem pendaftaran mahasiswa baru
 
-Proyek ini adalah sebuah aplikasi berbasis Laravel yang dirancang khusus untuk membantu kampus/sekolah dalam proses penerimaan mahasiswa/siswa baru. Dengan antarmuka yang intuitif dan fitur yang lengkap, aplikasi ini memungkinkan calon mahasiswa/siswa untuk mendaftar secara online dengan mudah dan efisien.
+This project is a Laravel-based application specifically designed to assist colleges and schools in the student admission process. Featuring an intuitive interface and comprehensive features, the application allows prospective students to easily and efficiently apply online.
 
 ## Features
 
