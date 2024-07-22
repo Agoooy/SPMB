@@ -41,3 +41,4 @@ You can reach me through My Gmail, LinkedIn, or Instagram account
 <div align="center">
 
 ![BuiltWithLove](https://forthebadge.com/images/badges/built-with-love.svg)
+![MadeWithVue](https://forthebadge.com/images/badges/made-with-vue.svg)
