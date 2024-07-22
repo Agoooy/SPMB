@@ -36,3 +36,8 @@ You can reach me through My Gmail, LinkedIn, or Instagram account
 <a href="https://instagram.com/yogardkaa">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo" />
 </a>
+
+---
+<div align="center">
+
+![BuiltWithLove](https://forthebadge.com/images/badges/built-with-love.svg)
