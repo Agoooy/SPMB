@@ -40,5 +40,5 @@ You can reach me through My Gmail, LinkedIn, or Instagram account
 ---
 <div align="center">
 
-![BuiltWithLove](https://forthebadge.com/images/badges/built-with-love.svg)
+![MadeWithLove](https://forthebadge.com/images/badges/made-with-love__.svg)
 ![MadeWithVue](https://forthebadge.com/images/badges/made-with-vue.svg)
